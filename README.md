@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code for the "Image-and-Text Fusion for Improved Image Classification on UPMC Food101" project. The project focuses on enhancing image classification through the fusion of image and text modalities.
+This repository contains the source code for the "Image-and-Text Fusion for Improved Image Classification on UPMC Food-101" project. The project focuses on enhancing image classification through the fusion of image and text modalities.
 
 ## Project Structure
 
