@@ -12,6 +12,9 @@ This repository contains the source code for the "Image-and-Text Fusion for Impr
 ### Text Model
 - [Project/text_model.ipynb](Project/text_model.ipynb): Contains the source code for the text model.
 
+### Fusion Model  
+- [Project/text+image.ipynb](Project/text+image.ipynb): Contains the source code for the Fusion Model
+
 ### Extension - Image Captioning
 
 #### Custom GIT Model for Captioning
