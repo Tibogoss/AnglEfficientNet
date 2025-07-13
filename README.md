@@ -16,8 +16,7 @@ Please refer to the **slides** for more detail on:
 
 ## Project Structure
 
-<p align="center"><img src="./assets/pipeline.png"          style="max-width: 100%; height: auto; background-color: white; padding: 10px;">
-></p>
+<p align="center"><img src="./assets/pipeline.png"          style="max-width: 100%; height: auto; background-color: white; padding: 10px;"></p>
 <p align="center"><em>Figure 1.</em> Project pipeline.</p>
 
 ### Image Model
