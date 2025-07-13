@@ -16,7 +16,8 @@ Please refer to the **slides** for more detail on:
 
 ## Project Structure
 
-<p align="center"><img src="./assets/pipeline.png" width=100%></p>
+<p align="center"><img src="./assets/pipeline.png"          style="max-width: 100%; height: auto; background-color: white; padding: 10px;">
+></p>
 <p align="center"><em>Figure 1.</em> Project pipeline.</p>
 
 ### Image Model
@@ -51,7 +52,7 @@ Please refer to the **slides** for more detail on:
 
 ## Future Work
 
-<p align="center"><img src="./assets/preliminary_results.png" width=100%></p>
+<p align="center"><img src="./assets/preliminary_results.png"          style="max-width: 100%; height: auto; background-color: white; padding: 10px;"></p>
 <p align="center"><em>Figure 3.</em> Preliminary results.</p>
 
 The "Extension-ImageCaptioning" folder contains code for future work on image captioning using a custom GIT model. This work aims to enhance the textual descriptions of images in the Food101 dataset and improve overall performance with the multimodal model.
